@@ -9,7 +9,7 @@
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
-            "currentDifficulty" : "0x20000",
+            "currentDifficulty" : "0x020000",
             "currentGasLimit" : "0x1a00000000",
             "currentNumber" : "0x01",
             "currentTimestamp" : "0x03e8",
@@ -133,6 +133,7 @@
             "gasPrice" : "0x01",
             "nonce" : "0x00",
             "secretKey" : "0xfe13266ff57000135fb9aa854bbfe455d8da85b21f626307bf3263a0c2a8e7fe",
+            "sender" : "0xdcc5ba93a1ed7e045690d722f2bf460a51c61415",
             "to" : "0x1000000000000000000000000000000000000001",
             "value" : [
                 "0x00"
