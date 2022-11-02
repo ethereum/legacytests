@@ -20,7 +20,7 @@
 	    },
 	    {
                 "indexes" : { "data" : -1, "gas" : -1, "value" : -1 },
-                "network" : [">=Byzantium" ],
+                "network" : ["Byzantium" ],
                 "result" : {
 			"0000000000000000000000000000000000000000" : {
                 	    "shouldnotexist" : "1"

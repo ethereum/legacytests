@@ -36,7 +36,7 @@
                     "gas" : -1,
                     "value" : -1
                 },
-                "network" : ["Byzantium", "EIP150", ">=ConstantinopleFix"],
+                "network" : ["Byzantium", "EIP150", "ConstantinopleFix"],
                 "result" : {
 		    "a000000000000000000000000000000000000000" : {
 		        "storage" : {
