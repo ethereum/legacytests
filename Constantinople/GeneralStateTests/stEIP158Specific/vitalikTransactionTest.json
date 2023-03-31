@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP158Specific/vitalikTransactionTestFiller.json",
-            "sourceHash" : "e2c3a74e1be4f8584cee797ecdb82d3fbe9fb6bcd3f02bad486b4b6100dc3cd1"
+            "sourceHash" : "9e2d0b18cfc9336713a9ffd2ba3085edd4ab84013dfea8693aa8679b26abc82c"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

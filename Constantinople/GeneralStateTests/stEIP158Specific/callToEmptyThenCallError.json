@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP158Specific/callToEmptyThenCallErrorFiller.json",
-            "sourceHash" : "5bc6dfaebc1190e53b425732db8f619b6bd25ec93eab5c5d3d10a4f4a2befdf9"
+            "sourceHash" : "601df754044566282dea85fe18535c2d0a53eb5b744cbcfb7b53d4c8ffd29f97"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

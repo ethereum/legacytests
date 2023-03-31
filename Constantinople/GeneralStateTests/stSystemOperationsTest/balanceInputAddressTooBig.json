@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/balanceInputAddressTooBigFiller.json",
-            "sourceHash" : "b7db65767dcee8daa09f96e0368de742d933f29aa0bbc6773e6af47118eb5067"
+            "sourceHash" : "804718013b28242bda7a90630cb5f3d4f335af80e94c5e79147e3b738ec9d8c4"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransitionTest/createNameRegistratorPerTxsAfterFiller.json",
-            "sourceHash" : "aa42c774b4f73193f4775c39a57c173bb40fde25a4b56fe4d6b65a6a96a3f64d"
+            "sourceHash" : "57d78341eab93ba58d807a3e4bf7a6a6869be231026b115c643d80830bff5e43"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

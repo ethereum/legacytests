@@ -5,7 +5,7 @@
             "filledwith" : "Geth-1.10.7-unstable-a1f16bc74c7efb593db2982c92222d1e4a201c25",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCreate2/CREATE2_SuicideFiller.json",
-            "sourceHash" : "e54cd1a58fd6fe178ddca14d92317018ce02c14e6c9d4d7ceacd6915e0e2fd71"
+            "sourceHash" : "7d509b30f72475c270cb2ac273601bd65eb2fa991685c50ee6129f754ed14e8d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

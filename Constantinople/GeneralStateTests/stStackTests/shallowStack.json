@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStackTests/shallowStackFiller.json",
-            "sourceHash" : "ce3db8e0af0eb5017f4ea28283b6b12d23baab37524e268cdb06377b0121c8b9"
+            "sourceHash" : "cfeb51b4199de0fd6ae2cd8d1cc0746a1242dac3855b70ff01c45e57de90bb33"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

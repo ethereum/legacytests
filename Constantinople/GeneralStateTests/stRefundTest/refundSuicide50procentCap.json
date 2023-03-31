@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRefundTest/refundSuicide50procentCapFiller.json",
-            "sourceHash" : "4494719f477316aebb875d6ec6a5dee0e0ff166dbc7e767ec4ec267cd71981d4"
+            "sourceHash" : "f8277aa0a8286390fd6bc7e7ddfb0d9524c2fb9da2cf1db6a6973543266ed4d8"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

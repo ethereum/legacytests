@@ -108,7 +108,7 @@
                 },
                 "transactions" : [
                     {
-            		    "data" : "run()",
+            		    "//data" : "run()",
                         "data" : "0xc0406226",
                         "gasLimit" : "314159",
                         "gasPrice" : "1",

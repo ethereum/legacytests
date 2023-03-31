@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/callcodeToNameRegistratorZeroMemExpanionFiller.json",
-            "sourceHash" : "94efb008f210822536ae7cac14d532f866fe4a32b8164053e1b696a1be664fd1"
+            "sourceHash" : "5ad2b366eeaa0894f0391b33572a240e51ccc0f3ff8358ae3ce5d59533468941"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

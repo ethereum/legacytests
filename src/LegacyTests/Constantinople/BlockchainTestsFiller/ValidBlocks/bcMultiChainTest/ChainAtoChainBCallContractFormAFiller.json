@@ -63,7 +63,7 @@
         "blocknumber" : "2",
                 "transactions" : [
                     {
-            		"data" : "contract main { int a; function run() returns(int) { a = 5; return 5; }}",
+            		"//data" : "contract main { int a; function run() returns(int) { a = 5; return 5; }}",
                         "data" : "0x6060604052606e8060106000396000f360606040526000357c010000000000000000000000000000000000000000000000000000000090048063c0406226146037576035565b005b60406004506056565b6040518082815260200191505060405180910390f35b6000600560006000508190555060059050606b565b9056",
                         "gasLimit" : "314159",
                         "gasPrice" : "1",
@@ -81,7 +81,7 @@
         "blocknumber" : "3",
                 "transactions" : [
                     {
-            "data" : "run()",
+            "//data" : "run()",
                         "data" : "0xc0406226",
                         "gasLimit" : "314159",
                         "gasPrice" : "1",
@@ -142,7 +142,7 @@
                         "value" : "100"
                     },
             {
-			"data" : "run()",
+			"//data" : "run()",
                         "data" : "0xc0406226",
                         "gasLimit" : "31509",
                         "gasPrice" : "1",

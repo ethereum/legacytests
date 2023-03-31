@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRefundTest/refund_CallToSuicideTwiceFiller.json",
-            "sourceHash" : "38037e616bae52f7114c1aeee4d6e5c6ac9f87dc036eebca8b6db399bc6d8e11"
+            "sourceHash" : "67e50ffeab816385efc74fc23ec3238388ee14449826cb5814e475e012a0c846"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

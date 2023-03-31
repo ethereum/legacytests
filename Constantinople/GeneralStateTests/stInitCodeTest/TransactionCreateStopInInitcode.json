@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stInitCodeTest/TransactionCreateStopInInitcodeFiller.json",
-            "sourceHash" : "5a2c11b32291e159d6e471929608f67332e9acb93093befd8937f9f76175dc87"
+            "sourceHash" : "059e9f5cfa0a0ce5119c92a91388fe591ee38bb0d9df52ce1525b64418fbbffd"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

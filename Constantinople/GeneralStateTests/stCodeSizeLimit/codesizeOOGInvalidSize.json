@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCodeSizeLimit/codesizeOOGInvalidSizeFiller.json",
-            "sourceHash" : "f90c34e658c1dafe95d468566d0c039da58615371a4564515af1b2a67e373076"
+            "sourceHash" : "cb78268d579e444514e6a3515d7c44512700cef66a0d69088941c79e42d1f9d5"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

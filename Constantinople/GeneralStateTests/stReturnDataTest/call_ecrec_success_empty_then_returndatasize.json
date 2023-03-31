@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stReturnDataTest/call_ecrec_success_empty_then_returndatasizeFiller.json",
-            "sourceHash" : "c364fd4e4cfa81d86780bc957748eae17c0aab903ccbafa553b3b6f77fd926fc"
+            "sourceHash" : "54b3f6d56466f2f2027605b460d7f72b36fa1f560521ff95f4a641e64a308bfe"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

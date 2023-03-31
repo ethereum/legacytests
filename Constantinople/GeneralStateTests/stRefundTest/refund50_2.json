@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRefundTest/refund50_2Filler.json",
-            "sourceHash" : "2497cea8f0d1a4c3edbaeaca0d16552520f5719b34030a6769a036a2ce616ddc"
+            "sourceHash" : "42df7bcda9c08d68404413b70defc2261756fdaf14b0983ef155ad286a7733c9"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

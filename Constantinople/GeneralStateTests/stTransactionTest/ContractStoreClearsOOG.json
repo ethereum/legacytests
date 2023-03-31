@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransactionTest/ContractStoreClearsOOGFiller.json",
-            "sourceHash" : "37cb40b55739fe3978beccf78f66545555be6a021484bfa60ef8e652a27ac1a4"
+            "sourceHash" : "e0838de481aceb75653a6d1beeff051d8435d0ff139371949f1521a8d3b29cbc"
         },
         "env" : {
             "currentCoinbase" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",

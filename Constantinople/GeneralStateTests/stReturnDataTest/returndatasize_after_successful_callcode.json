@@ -5,7 +5,7 @@
             "filledwith" : "Geth-1.10.7-unstable-a1f16bc74c7efb593db2982c92222d1e4a201c25",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stReturnDataTest/returndatasize_after_successful_callcodeFiller.json",
-            "sourceHash" : "c4b2e3d1cc5d63ea14ac6ed9ace745e2d20f683da687eb4df2b9c9dcac36d4f5"
+            "sourceHash" : "901abd173e8603c9af6f65019c987a261fc7281a400ead166d9359733e86bf19"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

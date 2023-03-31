@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroCallsTest/ZeroValue_DELEGATECALL_ToOneStorageKeyFiller.json",
-            "sourceHash" : "d757f3bf3290cccc845753da2671bfe3db6b674d53a4215538d8a261d451fc36"
+            "sourceHash" : "ec87a6cae0e9350ae15bf13c6515157d66cbdcb3db7f80ef98c9fbe943737414"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

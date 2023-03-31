@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/doubleSelfdestructTestFiller.yml",
-            "sourceHash" : "1920f5774bcd9746ed0fec990b64230df965b4e7e38b37fbf32822b6d7892986"
+            "sourceHash" : "cfb0f39037e197da573f0fa6b06efcf400ef8dfe6fda038e1bda48088b550a23"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

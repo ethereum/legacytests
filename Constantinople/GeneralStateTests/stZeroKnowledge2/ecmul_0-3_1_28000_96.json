@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroKnowledge2/ecmul_0-3_1_28000_96Filler.json",
-            "sourceHash" : "db9605f10ee0648d4503e523d86ecb551a9c8716ce9a0799ea04502f952b3f73"
+            "sourceHash" : "f31aee1de55453678ff379f59440ff1a2c5427644a4a68de306d4bea6fbffab8"
         },
         "env" : {
             "currentCoinbase" : "0x3535353535353535353535353535353535353535",

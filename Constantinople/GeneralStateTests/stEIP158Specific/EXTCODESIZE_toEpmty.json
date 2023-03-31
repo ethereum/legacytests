@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP158Specific/EXTCODESIZE_toEpmtyFiller.json",
-            "sourceHash" : "26a63fcd7f83ff70ccf2e5c5eada8ab2ceca9b2fa5762877d5c8bb0c4fc88164"
+            "sourceHash" : "43ad83600674c784829fc54752193b1edfef3c473d3a4522c5a6829a94fbd195"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

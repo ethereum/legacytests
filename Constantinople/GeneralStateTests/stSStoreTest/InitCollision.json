@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-21+commit.78355a28",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSStoreTest/InitCollisionFiller.json",
-            "sourceHash" : "89813ef3c9a96fc2c208361508c21064c6c5a316fa7858515f40b455daed0bc7"
+            "sourceHash" : "8638d0ae9f93b47ed0bfb6927a136791a3d3a96746a036c14e960e6536b63ec0"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

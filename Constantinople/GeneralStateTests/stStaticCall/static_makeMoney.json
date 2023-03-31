@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_makeMoneyFiller.json",
-            "sourceHash" : "465c1dd8addfb9731b802423e2a0b2a4d3c6e2986c0336cb7d79bbfe9038d1d5"
+            "sourceHash" : "af8fa91050f9640cd890f157cfe516770866ba1785d7f2937cacb8aa6a0d023b"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.8.0-alpha.0-12+commit.b120a12c",
             "lllcversion" : "Version: 0.5.12-develop.2019.9.13+commit.2d601a4f.Linux.g++",
             "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/suicideCoinbaseFiller.json",
-            "sourceHash" : "65abf3033744aecbff3dd7f86ab8502dade82759fcf44311db5a4f38e3ac0447"
+            "sourceHash" : "d65456e2e555a7af5b1694bbd92f7d4079f963d2dd5e141cb790effab99ee607"
         },
         "blocks" : [
             {

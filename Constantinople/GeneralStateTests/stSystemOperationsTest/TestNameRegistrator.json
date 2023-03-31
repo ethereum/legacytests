@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/TestNameRegistratorFiller.json",
-            "sourceHash" : "dcbca37c7b6796036fdc7176935022d213c314aab6cd58e386bbd2784311d842"
+            "sourceHash" : "e44692786f7bf268887871296c19eb261aa14fdbf3403ed8b81c7371b94ac564"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

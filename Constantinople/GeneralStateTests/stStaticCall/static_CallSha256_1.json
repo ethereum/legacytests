@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_CallSha256_1Filler.json",
-            "sourceHash" : "e784826cc20d66e9f9a0c55ffbef51406d1b951e57a9ed86c4520bb63fefa284"
+            "sourceHash" : "e979609abefbcea08f0ddf58d14d0000470772dd3aa6fadba54c22e2a7639972"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

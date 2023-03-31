@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stWalletTest/multiOwnedChangeRequirementTo0Filler.json",
-            "sourceHash" : "d763ec0e78c732b9723ccb9a562bc922f58145be83861dcbf4ce0dcf5364a832"
+            "sourceHash" : "b7c6709e84bd5802eaaa17dd4b251da30de35ad9a054ee0c3fa26b25674ccb5e"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCallCreateCallCodeTest/createJS_ExampleContractFiller.json",
-            "sourceHash" : "78c2aa2684e480803540e6db93c525127da7ec819d62f2d831db09242a832407"
+            "sourceHash" : "d35d2eda734be1d7b68866ab7e6e7ddc114c6dfc3a353f0ce55aeec46573a820"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

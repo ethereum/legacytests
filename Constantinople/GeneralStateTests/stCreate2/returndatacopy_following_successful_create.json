@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCreate2/returndatacopy_following_successful_createFiller.json",
-            "sourceHash" : "6f6cd4285f03b62ec76f72557766f2c55fc7526f8c9841fa188bbbe8a5da9b78"
+            "sourceHash" : "43b40a774ff3bf7fc926ed4d70ebcb5c24d0f40d2e70f5dfe2c79e4ce75aecbf"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/CallToReturn1ForDynamicJump1Filler.json",
-            "sourceHash" : "58b819f072005b8851889548a4c7eb0a5a19dd4f658ccb6f2ab764c17ae857af"
+            "sourceHash" : "80012b5ca0b6ce14388651cd75f8dd8a1c5edb7607bdb32b60fc369c0bda84d3"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCreateTest/CreateOOGafterInitCodeReturndata2Filler.json",
-            "sourceHash" : "d9a7cd408457183cfc679e5a7ac838fcd9789eb8126035a3bdc2e8c98d639b1d"
+            "sourceHash" : "304e600546ca2d36a218a92a16325cf0318be4c75cfb2b3754033a98430a5323"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_CallRecursiveBomb0Filler.json",
-            "sourceHash" : "25958b7771cfe0ff880a17945a3935121060133af817f87408c8622d53aaf639"
+            "sourceHash" : "afa3fb9aef5e004a01a60cefab22b3f97eee4b1d0e5cba07657ae8dfbd78ce1b"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

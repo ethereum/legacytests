@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/TouchToEmptyAccountRevert2Filler.json",
-            "sourceHash" : "58f3f6cc53481d5ea9bb80fa528e81dbe255424664c1a8a70ec46909200b1f12"
+            "sourceHash" : "d73a8338a7b5ffdb43b90c768bd5ef3660640dc6fb33e8797a7a273e15c5c31d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

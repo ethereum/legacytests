@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stLogTests/log4_logMemsizeTooHighFiller.json",
-            "sourceHash" : "8d249abedd4e2e957b69c45b7444b4a2146b5b396fec33514cc004c16c7f8814"
+            "sourceHash" : "b7018dca2d4bc498d4f277c1fddcaa0dbcf64958f89bd52380866272a0585a1e"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

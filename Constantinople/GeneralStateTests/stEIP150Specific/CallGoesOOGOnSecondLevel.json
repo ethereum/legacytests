@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP150Specific/CallGoesOOGOnSecondLevelFiller.json",
-            "sourceHash" : "b3af30d1e93f63918fb8831afd2d9b4ce68ede85e5082a0abebadd8d7fc95310"
+            "sourceHash" : "1b1b9218309a5d7e9afa7c86252fa02f2302120a30d7d49f9d8c22b6e58bd11a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

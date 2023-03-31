@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransactionTest/StoreClearsAndInternlCallStoreClearsSuccessFiller.json",
-            "sourceHash" : "aacb618fe497dd71c302f41c8d3f1882106b2a86792d2d6b52c2851cdcde2a0e"
+            "sourceHash" : "a0ff4e22212d08cb08077fa1b5e1d391231a2528611c53544f244abd441ad14e"
         },
         "env" : {
             "currentCoinbase" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",

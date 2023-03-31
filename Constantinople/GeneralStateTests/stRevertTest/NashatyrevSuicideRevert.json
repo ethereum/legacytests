@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/NashatyrevSuicideRevertFiller.json",
-            "sourceHash" : "d7654bbe26d3a9aae3bc88dd1dd406fb0e4385ef61e52ae101154300c01c903b"
+            "sourceHash" : "b5e0f6b8fc85e53378bbb65f2f566cba5ffeda5a00916d6b9c7a2136969ca4f0"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

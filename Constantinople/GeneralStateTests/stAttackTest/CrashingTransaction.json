@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stAttackTest/CrashingTransactionFiller.json",
-            "sourceHash" : "07f236f84152994ae0b7e5d204d054a1fdbaa9bfa2ff46e3f61d188145eb0198"
+            "sourceHash" : "0877727fb0b0a78e56151f41885d7b52e5760646339ca2d123ed592cece47ca1"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

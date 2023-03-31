@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.8.0-12+commit.9078d51d.dirty",
             "lllcversion" : "Version: 0.5.14-develop.2021.6.15+commit.401d5358.Linux.g++",
             "source" : "src/LegacyTests/Constantinople/GeneralStateTestsFiller/stShift/shiftCombinationsFiller.yml",
-            "sourceHash" : "aa5b4bf3255e8c47312f4b609722a5a9a6d9471e5aa1819cc8dfafa15c146501"
+            "sourceHash" : "af16f31837a1acf4d7db01e1dcece935aad491c631950f9518b5ee9c1efc6110"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

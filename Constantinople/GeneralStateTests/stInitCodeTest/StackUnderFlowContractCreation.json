@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stInitCodeTest/StackUnderFlowContractCreationFiller.json",
-            "sourceHash" : "04eda6e4a52ff4b5fc5b29900b65d89db15454bbc15148e7eac509713b7cceb1"
+            "sourceHash" : "6e9a429f47610bc1cfd2ffdeaef4e567f5cbd2869f6643a3fb8d4921a0a88b76"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

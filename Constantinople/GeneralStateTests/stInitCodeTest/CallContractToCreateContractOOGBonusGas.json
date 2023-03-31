@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stInitCodeTest/CallContractToCreateContractOOGBonusGasFiller.json",
-            "sourceHash" : "35374e097812153bd7d898b017272c003a8c8082d2d13ad6a93e298dd89dd7e5"
+            "sourceHash" : "0232074bae7391d62041b0c146d04ef70c0a88451534b1c6c616d88da325a4e3"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

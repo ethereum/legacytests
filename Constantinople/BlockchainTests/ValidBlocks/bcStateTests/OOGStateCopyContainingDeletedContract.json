@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.8.0-alpha.0-12+commit.b120a12c",
             "lllcversion" : "Version: 0.5.12-develop.2019.9.13+commit.2d601a4f.Linux.g++",
             "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/OOGStateCopyContainingDeletedContractFiller.json",
-            "sourceHash" : "6206990fb9fdc215e2d9ee3714cb561564c4ec9209531c53a3dfd69f77d601ab"
+            "sourceHash" : "784a890d5f376f27e33487b927c938d9b96df6d1a41ade0e65a0de220bdd05d6"
         },
         "blocks" : [
             {

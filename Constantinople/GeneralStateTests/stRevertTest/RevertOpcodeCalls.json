@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/RevertOpcodeCallsFiller.json",
-            "sourceHash" : "1fe70739a04f6e9cbfd21ec77457d561f72eebc02c0e82814305607cd49077c6"
+            "sourceHash" : "a20377f31774be54f97d1e5423faef3cce874355db9c8bb7d79993dc60c3801d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

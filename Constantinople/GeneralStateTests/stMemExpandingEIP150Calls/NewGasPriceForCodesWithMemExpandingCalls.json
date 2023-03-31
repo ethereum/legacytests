@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stMemExpandingEIP150Calls/NewGasPriceForCodesWithMemExpandingCallsFiller.json",
-            "sourceHash" : "ec5ee3ac6a9b20c3d2eab000e8d7763069242c9653004909326e066f8ae5940d"
+            "sourceHash" : "a2852d9ee2ee5e5732c4f08381dafd61b2e57300d6cc4cbc28a3c18ff4955068"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

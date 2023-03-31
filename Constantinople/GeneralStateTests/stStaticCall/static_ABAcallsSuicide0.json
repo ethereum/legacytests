@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_ABAcallsSuicide0Filler.json",
-            "sourceHash" : "4ab6c7c8f30d76ea4d2d502a17a23065179f17df4cb5acda5adbafb3024ee865"
+            "sourceHash" : "b23e0cefd23960af6259c71dfa1bce17f70d00e7ce378cf7744a12b9a4db0b4b"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

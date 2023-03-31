@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stMemoryStressTest/FillStackFiller.json",
-            "sourceHash" : "bc667ecbd49fb313e7d09a2b3a187cb7fd6c9801478363824dc3ab1a72fe8c69"
+            "sourceHash" : "1ec2f2d343b36dcf1f83de59cfb225b67bcfd49632c306b41ffa743abc388581"
         },
         "env" : {
             "currentCoinbase" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",

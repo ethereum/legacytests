@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP150Specific/SuicideToExistingContractFiller.json",
-            "sourceHash" : "1936f12c57a7f12f5b555e306a92a012c47034f538125b7893a01941191b8937"
+            "sourceHash" : "4375487e4bcc618fe60c3b2b22cb19bcd0bb865a4929cd1c0d3834ec0c922ee0"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroCallsRevert/ZeroValue_SUICIDE_ToOneStorageKey_OOGRevertFiller.json",
-            "sourceHash" : "442ab094f5e120cd713cf2fe7faefa180807a85727cdb59468d6fe71f9b53190"
+            "sourceHash" : "dd69651d4c561d46352a9cd50bdbeccb1f7b6b1fb52bb133bf24cb4f34ceb816"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransactionTest/TransactionToItselfFiller.json",
-            "sourceHash" : "38c1ae453492c4d00f1d4c629e7b3d56468f6964ce7fd93fb4a84b22a73809b1"
+            "sourceHash" : "393a6fc61eb7edda34d65e7acde683a6983a72d7867e294334d16bc9379c650a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
