@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stMemoryTest/mem64kb_singleByte+32Filler.json",
-            "sourceHash" : "483ed5cb9be432579c9ac0ac7b71fc20269a277a4aa363238d053bd4c3c219e5"
+            "sourceHash" : "50800eb495f30d1979ce7e9bbcbce7d4921139c47f2c72970209d6b75e62d7ca"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

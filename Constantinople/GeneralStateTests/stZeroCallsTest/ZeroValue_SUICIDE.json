@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroCallsTest/ZeroValue_SUICIDEFiller.json",
-            "sourceHash" : "1cda6d46d4629d433894a8809680c82f96ab1382cbeeeebc61d6ac0abfafe817"
+            "sourceHash" : "7c3f8b599fca25512a0ed06bd971f1afac549bf5b83c9fb2434f7b782b111008"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

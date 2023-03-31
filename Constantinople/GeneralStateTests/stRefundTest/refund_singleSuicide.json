@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRefundTest/refund_singleSuicideFiller.json",
-            "sourceHash" : "6431d6d495beed8d11a2cef5be63ae866a1e9ce180a0fcb786937681a8ae49b0"
+            "sourceHash" : "ebba0ef9588cabff5f25fb997178c3502ebd56007c78a45408ca3a0936846419"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

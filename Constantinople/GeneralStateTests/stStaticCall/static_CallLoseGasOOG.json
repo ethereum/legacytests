@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_CallLoseGasOOGFiller.json",
-            "sourceHash" : "7fb002519ee71b748fc9a0ef68b563cae3baeca940a74a94bbf24d8e86c350af"
+            "sourceHash" : "274a496164a49a81f4ba8b6af2cdccb6387cca1714c4829aa4b1d6561b659bef"
         },
         "env" : {
             "currentCoinbase" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",

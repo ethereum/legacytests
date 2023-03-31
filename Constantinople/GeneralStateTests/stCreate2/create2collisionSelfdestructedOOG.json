@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCreate2/create2collisionSelfdestructedOOGFiller.json",
-            "sourceHash" : "b32ce24421bd38c54b37c85bad1214a6eee7b5ba3013a35e84147d120dc1581d"
+            "sourceHash" : "bd6d7fd74c84d8187c2aa17a72b70b0464c81d5d4851fabe5baa49e16ebfb9fd"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

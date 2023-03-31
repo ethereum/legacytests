@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_callToDelCallOpCodeCheckFiller.json",
-            "sourceHash" : "120f2441065128aa3adc31dadbef54179db86e060f462e262007a771561ff372"
+            "sourceHash" : "b3c40c8cd3b6f30cfd641338098cf3892439cac5364293b4bdf5137babbd5917"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

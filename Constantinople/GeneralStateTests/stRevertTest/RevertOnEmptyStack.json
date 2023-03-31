@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/RevertOnEmptyStackFiller.json",
-            "sourceHash" : "8accbf71f4099346b1bd8a14c96f8d0ce0cfeee0ffab907809d7bb0cbb44e983"
+            "sourceHash" : "4cfb332fcc009bf700e2102a74ceb77b193e6229fab6dab0fe33849d5df3a62a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_log0_logMemStartTooHighFiller.json",
-            "sourceHash" : "5ffc399ad513e6e24a632cbba2f4bff23ff02e0c3bb091ab094b37dc7c216bb3"
+            "sourceHash" : "2b1cde372c96bd2a89eed81202fe26a8b54ddb9566cd8116989469bf7c714e4d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

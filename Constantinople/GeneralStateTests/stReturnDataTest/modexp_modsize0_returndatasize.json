@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stReturnDataTest/modexp_modsize0_returndatasizeFiller.json",
-            "sourceHash" : "4f74075996b80d41af8097c3d05daa8399021a7065e818c61909208bd08fa89a"
+            "sourceHash" : "e57205937e276f38da573483a59be045d0698349e0541046ac9f8ed8527b56f4"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

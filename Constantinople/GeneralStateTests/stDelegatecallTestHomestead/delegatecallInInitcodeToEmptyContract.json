@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stDelegatecallTestHomestead/delegatecallInInitcodeToEmptyContractFiller.json",
-            "sourceHash" : "ecafd79e02dc5160e661f90b6ee77c731efffd4c00e4c3c99d51728f8fedd926"
+            "sourceHash" : "aa9cd52cd0484c65b8d3fcdba131ff9e5ed447251b62a2b02dea9b43e036959e"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

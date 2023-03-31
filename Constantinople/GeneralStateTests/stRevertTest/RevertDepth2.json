@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/RevertDepth2Filler.json",
-            "sourceHash" : "a5a43ec2da95b72482a9132e77724bdca9e8738b73bc060c3adfbd0c1efc2f1e"
+            "sourceHash" : "2fb4038f5ef8d71299cec99cfbd0fbfce6fa87b0ade47c94f0c2bccedbb8beca"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

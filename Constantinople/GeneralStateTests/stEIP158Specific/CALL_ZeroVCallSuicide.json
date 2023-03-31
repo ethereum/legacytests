@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP158Specific/CALL_ZeroVCallSuicideFiller.json",
-            "sourceHash" : "3d45d38b5b228b9b1d5cacd1f684c57a3e1c646f66f9532249b6249de306fd70"
+            "sourceHash" : "adddb5e8ad14d3e3f6ef35a2df6accc48fb74ed2af39b26010063983e488a08a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

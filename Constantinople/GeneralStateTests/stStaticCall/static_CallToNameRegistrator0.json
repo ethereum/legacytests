@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_CallToNameRegistrator0Filler.json",
-            "sourceHash" : "7cf2a337f839432d629a6759da997e3e257bb03554106da4ec95cd1cc4c75310"
+            "sourceHash" : "aecf8a3b5e4f4cd5c9fee0d732e45bf8ddfc2a7f08043f59b76e878aeca8f032"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

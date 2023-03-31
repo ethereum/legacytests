@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSpecialTest/OverflowGasMakeMoneyFiller.json",
-            "sourceHash" : "13661ca44a18bee5073fbc156a42ca0910507eede6f5699344ba990cc9f6c58c"
+            "sourceHash" : "de4c5a5c3e51179c59323d565150ff381d56c0401bdc08f0240cf146ab28eb67"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

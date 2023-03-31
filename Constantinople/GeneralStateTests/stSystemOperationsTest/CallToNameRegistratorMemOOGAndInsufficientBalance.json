@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/CallToNameRegistratorMemOOGAndInsufficientBalanceFiller.json",
-            "sourceHash" : "6e1907bc43a398ca6f4993eed4ae1e0706edbcb59cae4e107f421ab4d30fd64b"
+            "sourceHash" : "132e381d0526945b2f436c71b3e311c9e7777a4d520767715f9b6f39c0b3444e"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

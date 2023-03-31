@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransactionTest/SuicidesAndInternlCallSuicidesBonusGasAtCallFiller.json",
-            "sourceHash" : "0c18247951c97c599034f5c852b8034d4f56d365b287d384e1324eb3eba832b5"
+            "sourceHash" : "f956b9ead645c4ba44ac5851ad9321f1640989714b29115d85a3efe852148a0d"
         },
         "env" : {
             "currentCoinbase" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",

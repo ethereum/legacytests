@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCreateTest/CREATE_EmptyContractAndCallIt_1weiFiller.json",
-            "sourceHash" : "5e4e3ec0d34eecb0c571378aecfc9f0dbc2a8841264c1be5cafa3ed21cee77f1"
+            "sourceHash" : "87fdabfc93abafc74f4a418bf0ec91ef8878976c33c3a297b93b3667c4f8ae61"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

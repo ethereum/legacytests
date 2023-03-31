@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-21+commit.78355a28",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSStoreTest/sstore_XtoYtoYFiller.json",
-            "sourceHash" : "e31f7da9a0d8eaf9f62ae1c9267c44a60a936cc2fc87f70b4b0374092c662ae8"
+            "sourceHash" : "de80ec75224d0c24f8d2d37527894a2b7dc8904de90e572ef34736ecb4dafe8c"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

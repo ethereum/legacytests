@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stArgsZeroOneBalance/suicideNonConstFiller.yml",
-            "sourceHash" : "88845015ad8e78d4230c2ba37cb86b33a96b6acece62f88413af79e17944c823"
+            "sourceHash" : "9ec89c9e984fd4260610b325a04a0a403a3e2ef62ccb3ee203aee3d7a6a858f1"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

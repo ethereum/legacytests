@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-21+commit.78355a28",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSStoreTest/sstore_changeFromExternalCallInInitCodeFiller.json",
-            "sourceHash" : "72938f8674e3a0a0b551f297df485bd0b4fcdae1bc9108e6db5cfb85a5696177"
+            "sourceHash" : "8fb1f301cd1fb3bbd67a052adb36598a86dd7f301f606c8347987341d1372606"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

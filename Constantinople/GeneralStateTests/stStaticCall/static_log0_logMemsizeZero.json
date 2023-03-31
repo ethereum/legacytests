@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_log0_logMemsizeZeroFiller.json",
-            "sourceHash" : "5fc88515367de3b694e53f917323a3b7519ff59f042c97201ef394063507c17c"
+            "sourceHash" : "46e9bb7f18f0d7107d2395a9bf5da910bfab92608107979447ae06790a44cfcb"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

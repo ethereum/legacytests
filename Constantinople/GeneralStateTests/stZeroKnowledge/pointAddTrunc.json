@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroKnowledge/pointAddTruncFiller.json",
-            "sourceHash" : "18b05f360ca93c3a7ee1d65e7ec5e6f976e2891da66e99d74b41237e819b3c4b"
+            "sourceHash" : "bf01d71377a06a471fe62be04d1ce083d4d69b70ad0480abb6481530d654f0ac"
         },
         "env" : {
             "currentCoinbase" : "0x68795C4AA09D6f4Ed3E5DeDDf8c2AD3049A601da",

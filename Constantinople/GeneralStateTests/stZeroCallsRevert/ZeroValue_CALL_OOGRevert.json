@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stZeroCallsRevert/ZeroValue_CALL_OOGRevertFiller.json",
-            "sourceHash" : "35bc02277954dda393210f0b5bdfaa09f1e929da18cfd5dde77942b3acbc42f2"
+            "sourceHash" : "c3c869b6870768c551d7716ea7220ee0378dfe2ca5832e1e162c9494fe2aa4f7"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

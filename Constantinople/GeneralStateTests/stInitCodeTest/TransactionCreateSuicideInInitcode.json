@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stInitCodeTest/TransactionCreateSuicideInInitcodeFiller.json",
-            "sourceHash" : "f5cfa421b70749eb159403aa0ca02b0c188a2263647bf7e61653581bbcde41ae"
+            "sourceHash" : "02524c4e1af1ebda10815c27ae8a262e7c8487f13421f13b522c6e8b883bb509"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stMemoryTest/sha3_dejavuFiller.json",
-            "sourceHash" : "072b2c64a995a718aab2166662e7fccb557788182e2f20fa9bc7abd1e7787838"
+            "sourceHash" : "4450544fcda641f74454833eb4c6b3293e8e975f58510666425fc4f5fbf2746a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

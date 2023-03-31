@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRevertTest/RevertPrecompiledTouchFiller.json",
-            "sourceHash" : "06ef8c51e1e34fe1b9526e752c1a28ce076cecd478f3c9ebbaa973fd2129a18d"
+            "sourceHash" : "72aeaca051b7b929ef4db0223ffe2bbca42066d7076b0683a1bc2801484eaf19"
         },
         "env" : {
             "currentCoinbase" : "0x68795C4AA09D6f4Ed3E5DeDDf8c2AD3049A601da",

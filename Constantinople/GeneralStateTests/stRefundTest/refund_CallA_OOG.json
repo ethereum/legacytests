@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stRefundTest/refund_CallA_OOGFiller.json",
-            "sourceHash" : "fbe455e794c7df82b7dcf3d99b5b3d1cfd4fcf0dac0ba2394e70db09b9066877"
+            "sourceHash" : "9208821347c26175abdb0f5ad87e166c8875437626a7bd9540df80e99e7b29e0"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

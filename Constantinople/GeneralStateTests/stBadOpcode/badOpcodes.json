@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-21+commit.78355a28",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stBadOpcode/badOpcodesFiller.json",
-            "sourceHash" : "ffb182dcc89d002c06f26d2d522f72c9bc640894c872c8e34477a4ae0a34fb5e"
+            "sourceHash" : "163be041537b78a73606e3aeeecbf5fbf31f5be2070a30a6083f2401434db5bc"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

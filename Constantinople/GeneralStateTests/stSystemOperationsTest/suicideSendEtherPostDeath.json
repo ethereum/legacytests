@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/suicideSendEtherPostDeathFiller.json",
-            "sourceHash" : "8174ac4d56c5896d766106d28f20ac665aa1dbc003abea82645f9939b30282af"
+            "sourceHash" : "6f9bcfc1d644cae61da0ffc0399a8a39628fb7a5d863d41bc97b51be7a06f86a"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stWalletTest/dayLimitResetSpentTodayFiller.json",
-            "sourceHash" : "d2f45e0c47da48966e59ced9b2eb3319cc684fc672e9579d0b79513c58f2373b"
+            "sourceHash" : "0970c8e45a034b3c8d63189d6479a041218eb95543fc94d4d86e21f306e4e5cd"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

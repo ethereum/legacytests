@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_refund_CallToSuicideNoStorageFiller.json",
-            "sourceHash" : "b156273b5fdbf062c906fef152a203362fc92d70040fbd1d26c5e1be12dba860"
+            "sourceHash" : "5fc5b14b1f188e85780e34cc542c0469658ac08bcd8af427e61175bb0c8d1a4d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

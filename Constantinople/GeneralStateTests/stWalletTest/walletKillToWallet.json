@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stWalletTest/walletKillToWalletFiller.json",
-            "sourceHash" : "b643841a277347a6aa6d867e89b90d22b75323cdf9a1041fa53ef423012d52e3"
+            "sourceHash" : "c6fd2d9d6d2aa0058d428129963a8bed5d2d799c65883ac6df88cab363c9f1bf"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

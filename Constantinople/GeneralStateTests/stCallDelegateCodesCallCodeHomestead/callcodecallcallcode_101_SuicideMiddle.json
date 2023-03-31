@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCallDelegateCodesCallCodeHomestead/callcodecallcallcode_101_SuicideMiddleFiller.json",
-            "sourceHash" : "63da247322e2662fca4d739202a371a5085e2ac3a74448426e32994a13d24851"
+            "sourceHash" : "c458e0eba94431b0c05b0127e84bac64605f778f694e8af6247d834db6ea3eb5"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

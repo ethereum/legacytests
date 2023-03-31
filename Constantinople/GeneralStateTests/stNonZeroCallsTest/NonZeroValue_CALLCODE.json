@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stNonZeroCallsTest/NonZeroValue_CALLCODEFiller.json",
-            "sourceHash" : "b1d641e000b10ed7d320351e7655f6b6e19017c6bf9f6dcdb0d50bdebd3680a7"
+            "sourceHash" : "cffa05ae5495ffd594cb53407d3c2569ae8bd76d8f44187643ffbd0e6651ae0d"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

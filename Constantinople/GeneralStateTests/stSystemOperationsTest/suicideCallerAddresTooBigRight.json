@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/suicideCallerAddresTooBigRightFiller.json",
-            "sourceHash" : "b55546c6e507eb229e1b8b60456da98360c7af48ba73de0c5813157551c5f8ec"
+            "sourceHash" : "45cb92698a2b69597a27620a04b149b9ead6d368e7a2bb2bca91a1d612e009a2"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

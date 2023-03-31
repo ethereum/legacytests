@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSystemOperationsTest/currentAccountBalanceFiller.json",
-            "sourceHash" : "4fa3cd861ec7d84b6ff774c47f5f839c8e654922981f6f8f49930cff60890423"
+            "sourceHash" : "06bd0a056fd6ad9bbbdd3ce98f36d019d3653bdd055b59256c3d4a279f7cfe49"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

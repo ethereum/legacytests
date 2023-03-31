@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_CREATE_ContractSuicideDuringInit_ThenStoreThenReturnFiller.json",
-            "sourceHash" : "6594a1707961e7b74c7dccb4e46ef95c53c12cab87c9e930de655f72fb3bb341"
+            "sourceHash" : "335e89c1b1b0783d78aeb6764a2d6f24181f45039656a7890a42ac40272407a1"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

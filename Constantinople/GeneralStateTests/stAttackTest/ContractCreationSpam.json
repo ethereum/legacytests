@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-12+commit.e993828d.dirty",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stAttackTest/ContractCreationSpamFiller.json",
-            "sourceHash" : "8939839e7f241a5ab6b69bbd47598386a96fc61301f532ed0f0403300dc3ffcc"
+            "sourceHash" : "7008c127fc9df7a6184d281d3d98fb8881ac0831ba0a15c5712fc40d505c1607"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

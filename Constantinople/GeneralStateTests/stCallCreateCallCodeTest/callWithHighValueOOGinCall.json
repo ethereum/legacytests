@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stCallCreateCallCodeTest/callWithHighValueOOGinCallFiller.json",
-            "sourceHash" : "6d8d0716c8add1b78a7d0850a4ec8c2b11bb8b8ae0f5b7731cd4bdc1eba06444"
+            "sourceHash" : "1d9bbf4335ee651a89b13d7ac2cfe339ac752ecace6bae3227b5a06c85a1fa38"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

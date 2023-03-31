@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stTransactionTest/SuicidesAndSendMoneyToItselfEtherDestroyedFiller.json",
-            "sourceHash" : "c48e8b8d711c36be5d3619c76e15a49b003225e74665fee87ca6ce73a5ef2f89"
+            "sourceHash" : "218e961b44b98e9b1d14020b4ba65fdbc405e952bc49bd5fe76ef598c207fcbf"
         },
         "env" : {
             "currentCoinbase" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",

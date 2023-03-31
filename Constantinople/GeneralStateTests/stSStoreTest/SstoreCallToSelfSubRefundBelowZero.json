@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.1-21+commit.78355a28",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stSStoreTest/SstoreCallToSelfSubRefundBelowZeroFiller.json",
-            "sourceHash" : "d714915083bfa4e263426e2b7e738f094874b0991010377c9eb42df84b19b63d"
+            "sourceHash" : "a60db9a6e2a7d18e6c2d67f5c69b8c447055ab89d44731eafd320e86a3349322"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

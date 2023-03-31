@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_RETURN_BoundsFiller.json",
-            "sourceHash" : "5b740b9ecdd4a2e08b077e67756a8cee8b11801058ea93095618d1231d9b4d4c"
+            "sourceHash" : "2295b2bb7f8a1316cde7664a47b1e97c7eedecc75a4e5ed810993f0e5f795277"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

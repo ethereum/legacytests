@@ -198,7 +198,7 @@
             }
         },
         "transaction" : {
-	    "data" : [
+	    "//data" : [
 		"0 - call ecrevocer (1) from init code of create2",
 		"1 - call sha256 (2) from init code of create2",
 		"2 - call REMPID160",

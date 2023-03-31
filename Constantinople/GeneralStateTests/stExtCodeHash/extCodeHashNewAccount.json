@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stExtCodeHash/extCodeHashNewAccountFiller.json",
-            "sourceHash" : "78be97c865cd561365d04ec131552a9e8e981c3fada8344ee81e5978381a581e"
+            "sourceHash" : "f97abe89b57563443b81a26304d7e5fd635050fc6604b068d2d4695c77200d11"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

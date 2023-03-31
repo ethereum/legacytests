@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stEIP158Specific/CALL_OneVCallSuicideFiller.json",
-            "sourceHash" : "8e448857d892eb07d915039a18fb0b00e38726718976d414287d8ff77ebdd109"
+            "sourceHash" : "6069fb3f58ca9cd5ce54f11ddc13695386625d45d5027579a104aeb6d120e8cc"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

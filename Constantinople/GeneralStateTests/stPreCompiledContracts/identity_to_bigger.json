@@ -5,7 +5,7 @@
             "filledwith" : "testeth 1.7.0-alpha.0+commit.2b11ce5c",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stPreCompiledContracts/identity_to_biggerFiller.json",
-            "sourceHash" : "fa41c6e20a80b145d8cc08bc4240727e0a896c87f0a0c263f8251f201b483604"
+            "sourceHash" : "b813e937fe2dabea05f4b7db802900bd48a2df34231fefc9ca98044ab811debc"
         },
         "env" : {
             "currentCoinbase" : "0x3535353535353535353535353535353535353535",
