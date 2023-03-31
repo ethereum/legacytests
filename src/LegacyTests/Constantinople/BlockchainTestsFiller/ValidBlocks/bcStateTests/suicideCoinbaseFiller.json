@@ -105,7 +105,7 @@
             "8888f1f195afa192cfee860698584c030f4c9db1" : {
                 "balance" : "1000",
                 "nonce" : "0",
-		"code" : "contract killer { function x() {suicide(msg.sender);  }}",
+		"//code" : "contract killer { function x() {suicide(msg.sender);  }}",
                 "code" : "0x60606040526000357c0100000000000000000000000000000000000000000000000000000000900480630c55699c146037576035565b005b60406004506042565b005b3373ffffffffffffffffffffffffffffffffffffffff16ff5b56",
                 "storage": {}
             }
