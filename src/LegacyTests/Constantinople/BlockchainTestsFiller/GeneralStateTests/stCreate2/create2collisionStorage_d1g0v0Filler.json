@@ -5,15 +5,14 @@
         },
         "blocks" : [
             {
-                "blockHeaderPremine" : {
+                "blockHeader" : {
                     "difficulty" : "0x020000",
                     "gasLimit" : "0x0f4240",
-                    "timestamp" : "0x03e8",
-                    "updatePoW" : "1"
+                    "timestamp" : "0x03e8"
                 },
                 "transactions" : [
                     {
-                        "data" : "0x64600160015560005260006005601b6000f5",
+                        "data" : ":raw 0x64600160015560005260006005601b6000f5",
                         "gasLimit" : "0x061a80",
                         "gasPrice" : "0x01",
                         "nonce" : "0x00",
@@ -33,6 +32,7 @@
                 "network" : "Byzantium",
                 "result" : {
                     "0x6295ee1b4f6dd65047762f924ecd367c17eabf8f" : {
+                        "shouldnotexist" : "1"
                     },
                     "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                         "nonce" : "0x01"
@@ -61,9 +61,9 @@
                     "0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01" : {
                         "balance" : "0x00",
                         "code" : "",
-                        "nonce" : "0x01",
+                        "nonce" : "0x00",
                         "storage" : {
-                            "0x01" : "0x01"
+                            "0x00" : "0x01"
                         }
                     }
                 }
@@ -83,9 +83,9 @@
                     "0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01" : {
                         "balance" : "0x00",
                         "code" : "",
-                        "nonce" : "0x01",
+                        "nonce" : "0x00",
                         "storage" : {
-                            "0x01" : "0x01"
+                            "0x00" : "0x01"
                         }
                     }
                 }
