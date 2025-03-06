@@ -2,9 +2,9 @@
     "ecpairing_inputs" : {
         "_info" : {
             "comment" : "Various inputs to the bn254_pairing precompile",
-            "filling-rpc-server" : "evmone-t8n 0.11.0",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.1c4fa806.Linux.g++",
-            "generatedTestHash" : "2190764ab266a8e3a10e9e1586a966c472be199d5c6b22c75f067e26a0ec9407",
+            "filling-rpc-server" : "evm version 1.15.3-unstable-dab746b3-20250218",
+            "filling-tool-version" : "retesteth-0.3.2-legacy+commit.e0777df7.Linux.g++",
+            "generatedTestHash" : "96dcbbffc544adfc89f33695563e322a7545b7d4da968dc79d9141e3c8389549",
             "labels" : {
                 "0" : "negative",
                 "1" : "negative",
@@ -151,10 +151,10 @@
                 "98" : "invalid_g2_subgroup",
                 "99" : "invalid_g2_subgroup"
             },
-            "lllcversion" : "Version: 0.5.14-develop.2022.6.30+commit.401d5358.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21-develop.2023.7.19+commit.d9974bed.Linux.g++",
-            "source" : "src/GeneralStateTestsFiller/stZeroKnowledge/ecpairing_inputsFiller.yml",
-            "sourceHash" : "535c707d46346e108dabda65b3ca0568f12d962cae1a1a8ac5356dcc62190b7e"
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/GeneralStateTestsFiller/stZeroKnowledge/ecpairing_inputsFiller.yml",
+            "sourceHash" : "22756caa7acc50cfd2d8f8326e27139d1521dd25f036c55a130237c3fcc27878"
         },
         "env" : {
             "currentBaseFee" : "0x0a",
@@ -1617,13 +1617,6 @@
                 "nonce" : "0x00",
                 "storage" : {
                     "0x01" : "0xcc"
-                }
-            },
-            "0x00000000000000000000000000000000c014bace" : {
-                "balance" : "0x00",
-                "code" : "0x",
-                "nonce" : "0x00",
-                "storage" : {
                 }
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {

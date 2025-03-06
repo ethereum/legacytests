@@ -45,12 +45,6 @@ ecpairing_inputs:
             01: 0xfe
 
   pre:
-    00000000000000000000000000000000c014bace:
-      nonce: 0
-      balance: 0
-      code: ''
-      storage: { }
-
     000000000000000000000000000000000000c0de:
       nonce: 0
       balance: 0
