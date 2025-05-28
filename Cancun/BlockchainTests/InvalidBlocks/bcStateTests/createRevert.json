@@ -1,14 +1,16 @@
 {
-    "createRevert_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_Berlin" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "3fb452560a2def728c099204bf5d8683aa5e423ac48171365570d923b8b30596",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x393cbd4155b08d9c5f74a16915a11a3b6b60efb5b8e1383e8ba4e2fe8facae58",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"
@@ -96,16 +99,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createRevert_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_Cancun" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "cd2fe1ecc25a8e0eb31e09b28958a1eea604a960ea20e44a6c42917ba38eab23",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x8dd16f39578f20c07975a7e3b579d77dd24b962ad81e441ca0aa3e47a8059c7c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -145,6 +150,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"
@@ -219,16 +225,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createRevert_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_Istanbul" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "1fdadde992290c85973ead1c2b79617d48cd31b83eec545135b6a86c3457f649",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xe4674e9b067b176f66864d3cc5ccdde4d8cb1b449c18776372af41c762bd3771",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -263,6 +271,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"
@@ -316,16 +325,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createRevert_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_London" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "470be4b120b4845a0c453aaee0f0d3673b93e11b23bdb1099b12208d5ee35fc0",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x032fe867d81f16340fea6525554d50ec7fe76803ba8b5505e474da710a0795a3",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -361,6 +372,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"
@@ -415,16 +427,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createRevert_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_Paris" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "64ed79c16752123be2870381903efb7f7834f97300c1ef1b5300c6e207bb1a38",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x72715707dbfca37cbbbbe0015d0e70dab7603f3ca394ef4e1ddfe3bb4076822a",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -460,6 +474,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"
@@ -514,16 +529,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createRevert_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createRevert.json::createRevert_Shanghai" : {
         "_info" : {
             "comment" : "This test contains a create transaction that fails by REVERT in the init code.  The focus is on the status code in the transaction receipt (though not specified in the expect section).",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "445387ce74b561f41cc00bcf153b0b8de297b5f112a1257e3b71d3553e167884",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
-            "sourceHash" : "658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xa0a6c55dad232c610ef7a6d6e11136f4118b143cad1647adde5c119430cb1770",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createRevertFiller.json",
+            "sourceHash" : "0x658e2f0d850effadbf313aa2407111297a740378d79b12d67df4e72393158dd1"
         },
         "blocks" : [
             {
@@ -560,6 +577,7 @@
                             "nonce" : "0x00",
                             "r" : "0xbd88ea3f8fbd5ca488ebea8dbfe0d8f1369223c152c2f020e596b39e62761225",
                             "s" : "0x26a6f6f2e877f1240409cdbc2660fde363aaf4bf6b2079b358953489678966db",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1c",
                             "value" : "0x0a"

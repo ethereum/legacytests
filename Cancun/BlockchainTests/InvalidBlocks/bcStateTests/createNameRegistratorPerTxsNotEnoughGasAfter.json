@@ -1,14 +1,16 @@
 {
-    "createNameRegistratorPerTxsNotEnoughGasAfter_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_Berlin" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "f75ce23b04d3923fa7a9ef8bedf18df9e58804702fb0798df91cd4768ca67402",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x1d7cc24c0e2b0ccb746436db58785ab11a33786b43f9709f842a6d291098a517",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"
@@ -96,16 +99,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createNameRegistratorPerTxsNotEnoughGasAfter_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_Cancun" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "ec8741d432800bf3870db2ec7259d3f9917d3df456595884adf2cc6487975a3c",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xa4cfe02f170a498db1bf1686ddbf074e8fe50b3e7de49da4790af71d15a14d19",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -145,6 +150,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"
@@ -219,16 +225,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createNameRegistratorPerTxsNotEnoughGasAfter_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_Istanbul" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "364bd1d837eab746daeb22c3a3e68df3152050c7050d59c96b6d5b067cec0244",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xb3f5a54eca2f79d96313bfb57c5563f608724132a99f289118947a34846b4631",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -263,6 +271,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"
@@ -316,16 +325,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createNameRegistratorPerTxsNotEnoughGasAfter_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_London" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "e4eda34ad4374384ec075a348b5e772f2b64cb66973e42b60006e021f6606d40",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xae1c2d30798404cf0d9e68e2c3931f1a1bd3bc8d8e033c94db3b4ad224161a21",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -361,6 +372,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"
@@ -415,16 +427,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createNameRegistratorPerTxsNotEnoughGasAfter_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_Paris" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "c534b6d2de92241b0c3277ea7d9612b6b921d05e7ba0feb48a22120dd89191e3",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x21740b30897b2c29f6da729a809b7b82faccd856b83666f0de55aa2ee861c201",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -460,6 +474,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"
@@ -514,16 +529,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "createNameRegistratorPerTxsNotEnoughGasAfter_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfter.json::createNameRegistratorPerTxsNotEnoughGasAfter_Shanghai" : {
         "_info" : {
             "comment" : "rejection of oog intrinsic transaction. TODO: add a case where OOG happens after contract creation",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "c9e6ed391c88a754181b3fdacc0edc8a35e506137807616b251b7cbdb0fdec48",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
-            "sourceHash" : "037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x71b8d913f3cb45004f95f92b035fa759f776d45b1d4bcc4cf71fc5efcc84817c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/createNameRegistratorPerTxsNotEnoughGasAfterFiller.json",
+            "sourceHash" : "0x037d8d12d586667a899ea45d14b3ca86104f9c4a3065bdccc0bb2c7a6d23f512"
         },
         "blocks" : [
             {
@@ -560,6 +577,7 @@
                             "nonce" : "0x00",
                             "r" : "0x4e99e3f4cee2426a28ea073cea9c476c42fd09f5dd9cf3bdd8198c4003cf04a2",
                             "s" : "0x46e70febb9bec36dcfcb37bc256445203775966c20c2707d15fdc511d6983d46",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x0186a0"

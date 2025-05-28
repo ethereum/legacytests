@@ -1,14 +1,16 @@
 {
-    "CreateTransactionReverted_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_Berlin" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "c7027e9cce8dbaecd49b3e00b2942c7ecd59a22b23c481f0e62f3e07ad9b4685",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x01375ba95318b43578c1412634ebc6765149a11ad1e2a30e8e421db1f952419f",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -149,16 +152,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "CreateTransactionReverted_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_Cancun" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "01f5075bf398b04e0108124fb3f49ca4b280a53c01ad558913cde0f204856d4b",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x454f107600abd8da81590e04ee1f7eef4c340b80b3f029e44be8c2c18d5f2125",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -198,6 +203,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -333,16 +339,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "CreateTransactionReverted_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_Istanbul" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "0811f98b58307642dd6c206954defa6435b51e7ded999115beebab7cd07121bd",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xbcd35502285a1a4f5c1620514e9ab68ba31348763769ab1cc49210f0cb87f855",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -377,6 +385,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -483,16 +492,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "CreateTransactionReverted_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_London" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "32582fd075580fb900c9923e07ceaac86da71cdea2f3522ad8f15066a7c9ca6b",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xf22c7f7036572ffa54e2687725e3552d4f1eb00c090ece095aa29e693b2e6489",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -528,6 +539,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -636,16 +648,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "CreateTransactionReverted_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_Paris" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "6242f8fad66fd4d89bc198498f93f4f4d7f06f9cdce1b752ede618b695bcabcb",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x97ed5f91a9c97fcac617a9eae6737459f23723a8e924bc6455a54d6c47a46927",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -681,6 +695,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -789,16 +804,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "CreateTransactionReverted_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/CreateTransactionReverted.json::CreateTransactionReverted_Shanghai" : {
         "_info" : {
             "comment" : "check that transaction with gas < intrinsic value is rejected. must be a blockchain test. TODO: add a test where transaction has enough gas. create happens in init code and revert opcode is called!",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "604a994870740c3aa7470a088ad92adce0495231ce199dcc5026e92c4ec39845",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
-            "sourceHash" : "3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x27c317fe388c9a618ee2db24ed02bbacf76f1f1dfbeacabb37cb0f64a084bdea",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/CreateTransactionRevertedFiller.json",
+            "sourceHash" : "0x3b86b8c4b5095867c6abb663f57dfb62080ad870d6a2a2fe9d1a195b116f24f2"
         },
         "blocks" : [
             {
@@ -835,6 +852,7 @@
                             "nonce" : "0x00",
                             "r" : "0xda23adbd5dffc4dedfbb2ee97fda2c6beab23212a577d42e38d7b38b08e30c61",
                             "s" : "0x6165dcbe3091ae95f83e042360ba2f031a04ce1e6ee799d82c117ab08377ba3e",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"

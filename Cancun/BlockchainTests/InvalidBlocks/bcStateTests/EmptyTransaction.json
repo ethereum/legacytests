@@ -1,14 +1,16 @@
 {
-    "EmptyTransaction_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_Berlin" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "beb960a787d738ee38b7565112583ec9b2ffd74c783c2d4f42b78b7ab2361620",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x7b87dcf72ca40e09617920098765e986287b56798a91f4f0b9723856dfe6af54",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -96,16 +99,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "EmptyTransaction_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_Cancun" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "75af20b4655cf137564bf08f1c8d77acb9ab43a79bc96c8639b9fbef3438526c",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xdd67375b6580879d5304501b0c4ccce1749245badff9341d453e74abd2bab51c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -145,6 +150,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -219,16 +225,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "EmptyTransaction_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_Istanbul" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "efce7550ad11af2330e4f8b9b5e835a02d44602625a63361276bad7a3a64f694",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x143281126f5fd53ee355fe30d4c1a14fb0b334becb9597e652811c9db07daf9b",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -263,6 +271,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -316,16 +325,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "EmptyTransaction_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_London" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "f7248ead58bfc9db4a3e1edc1a7b4fcd7e4c97f2bcc30aa7224493b0e9b193e7",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x9ff1dece0b5df2a42c38f31b9b044df013835a0b407f12cefe76b473d82523a5",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -361,6 +372,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -415,16 +427,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "EmptyTransaction_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_Paris" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "109bc88fce13eb7ae0a783cb1f91ef5e285f08d917bf1724eaf568e95d6eb24a",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xc8d8db81c5d4c8e903aab6196a77039c9b25faae277df594f822d48a2a7c3279",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -460,6 +474,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"
@@ -514,16 +529,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "EmptyTransaction_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/EmptyTransaction.json::EmptyTransaction_Shanghai" : {
         "_info" : {
             "comment" : "check that malformed transaction fails and rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "f5036da8f9458dbd21c12d16b87315e74fb6e6986ee2481bd3d5cb6b79fecb75",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
-            "sourceHash" : "feeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xd8dcc79c4c404eeeec0b7941d576165ce7ae18d7bda398915aaf7e621f5151f7",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/EmptyTransactionFiller.json",
+            "sourceHash" : "0xfeeca2365e38e8e4fbb308c1de99ad4459b19b91ba6e228845b5e63b4faf75ee"
         },
         "blocks" : [
             {
@@ -560,6 +577,7 @@
                             "nonce" : "0x00",
                             "r" : "0x723dcc501934c9c2da4d096fcab28619cef37ca3bbdb0b0b740fbffee42ff358",
                             "s" : "0x09f8b9cc09fecb10543e0eb1c4f739c17dc34bad8aea0f7316cdaae2c8ed355f",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "",
                             "v" : "0x1b",
                             "value" : "0x00"

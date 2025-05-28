@@ -1,14 +1,16 @@
 {
-    "amountIs0TouchAccountAndTransaction_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransaction.json::amountIs0TouchAccountAndTransaction_Cancun" : {
         "_info" : {
             "comment" : "Test vectors BSHB0018",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "eaa9a7dc03e36942ca7f9e9f3da27514686de81c4f4c7e8c3fd69a57ae111bfe",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransactionFiller.json",
-            "sourceHash" : "83b01b6abcb38c2578a55d3e25c964bff977a1c5b8e162e85e777ef0e62ba116"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x95e0a55c015a2f30b432885b972bded79330cc774b64801a09fedb4819d3b8e0",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransactionFiller.json",
+            "sourceHash" : "0x83b01b6abcb38c2578a55d3e25c964bff977a1c5b8e162e85e777ef0e62ba116"
         },
         "blocks" : [
             {
@@ -141,16 +143,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "amountIs0TouchAccountAndTransaction_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransaction.json::amountIs0TouchAccountAndTransaction_Shanghai" : {
         "_info" : {
             "comment" : "Test vectors BSHB0018",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "01335ab96423b5ccb83441231b09a518a014df584882da9bef2178910d5ae540",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransactionFiller.json",
-            "sourceHash" : "83b01b6abcb38c2578a55d3e25c964bff977a1c5b8e162e85e777ef0e62ba116"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xc58d90e6831d1feffb5001325a38429e5854c215d05aa3cd57cc4a72e5b9454c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/amountIs0TouchAccountAndTransactionFiller.json",
+            "sourceHash" : "0x83b01b6abcb38c2578a55d3e25c964bff977a1c5b8e162e85e777ef0e62ba116"
         },
         "blocks" : [
             {

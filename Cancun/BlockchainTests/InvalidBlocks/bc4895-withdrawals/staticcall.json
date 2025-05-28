@@ -1,14 +1,16 @@
 {
-    "staticcall_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/staticcall.json::staticcall_Cancun" : {
         "_info" : {
             "comment" : "Test vectors BSHB0025",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "1968d9b9fd5bb86e25d34a2b7c27396a6ad104be05e3bfa191e03cc1dfb0e607",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/staticcallFiller.json",
-            "sourceHash" : "7d5bbb3c59ee20603838a85d4718452f7852aeb1e900dc19f8d602e518f7fb7d"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xc2ab01e80e1a23ad066206c30f49668a93707f7c4f07ace9b520565a17305b49",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/staticcallFiller.json",
+            "sourceHash" : "0x7d5bbb3c59ee20603838a85d4718452f7852aeb1e900dc19f8d602e518f7fb7d"
         },
         "blocks" : [
             {
@@ -163,16 +165,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "staticcall_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/staticcall.json::staticcall_Shanghai" : {
         "_info" : {
             "comment" : "Test vectors BSHB0025",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "da0c3fd861ea62f593e5fb045adb80e4a2038e18a40fdd426a19d34e73cdf91e",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/staticcallFiller.json",
-            "sourceHash" : "7d5bbb3c59ee20603838a85d4718452f7852aeb1e900dc19f8d602e518f7fb7d"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xd2e54ed67f52b0f7bb660d49f65d5708de4a1687046328f9e26eabab252de506",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/staticcallFiller.json",
+            "sourceHash" : "0x7d5bbb3c59ee20603838a85d4718452f7852aeb1e900dc19f8d602e518f7fb7d"
         },
         "blocks" : [
             {
