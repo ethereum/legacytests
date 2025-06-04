@@ -1,14 +1,16 @@
 {
-    "accountInteractions_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/accountInteractions.json::accountInteractions_Cancun" : {
         "_info" : {
             "comment" : "Test vectors BSHB0019, BSHB0020, BSHB0021",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "5c21e59fc6eb1c19bb7c722486f08e62fd94eb9eb352dc33f4d34774dc5f8221",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/accountInteractionsFiller.json",
-            "sourceHash" : "a8994fec2cb260806edbd934372a75cea377b47af198d11bf67771430d0096a9"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x92699f0061b0c2607380c48e8ce021413cb19d160356519a23f00c0828a7ca4c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/accountInteractionsFiller.json",
+            "sourceHash" : "0xa8994fec2cb260806edbd934372a75cea377b47af198d11bf67771430d0096a9"
         },
         "blocks" : [
             {
@@ -632,16 +634,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "accountInteractions_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bc4895-withdrawals/accountInteractions.json::accountInteractions_Shanghai" : {
         "_info" : {
             "comment" : "Test vectors BSHB0019, BSHB0020, BSHB0021",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "c1e5a4afb074f7c197b4fd15357621065889952a75a44a3bbf2aa102247077c3",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/accountInteractionsFiller.json",
-            "sourceHash" : "a8994fec2cb260806edbd934372a75cea377b47af198d11bf67771430d0096a9"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xb76a4bae5fbc6626dd38d7fe0870a8929f86334783c0a76d26e223a674f7535a",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bc4895-withdrawals/accountInteractionsFiller.json",
+            "sourceHash" : "0xa8994fec2cb260806edbd934372a75cea377b47af198d11bf67771430d0096a9"
         },
         "blocks" : [
             {

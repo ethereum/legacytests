@@ -1,14 +1,16 @@
 {
-    "DifficultyIsZero_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_Berlin" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "f1a2261b771fccdf147c2c1a2f660b3fd8b50ea1f74ee008bfc910868d5efe44",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x13fc18cf0bedbe7a0fc19316e3e1a1a8b93047419c374fb74c1e0965d59750f0",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0x742e5cbd6ff6fedbc62821d019c5809bf620cba582f2dd33c23d3ca8956bd117",
                             "s" : "0x39c7a217fe45c3a6aa2e2138311af6eef76b571dc7523dd1745112bcc44851ab",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0x095e7baea6a6c7c4c2dfeb977efac326af552d87",
                             "v" : "0x1c",
                             "value" : "0x1388"
@@ -110,16 +113,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "DifficultyIsZero_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_Cancun" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "7ff8a9cdea1fcbcc43e52a194b23a1cfc6cc349608bd9ac0647f4cf0854b3573",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x6c9a65460e5721af31f9865c6db11ead843d1feb33c9463637fd8c1db5a63d90",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {
@@ -253,16 +258,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "DifficultyIsZero_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_Istanbul" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "6c10b998fbd57e9535430009a0ab4152d38a6a3408557b0e5c6cf62b5ea583b9",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xfbf87746600e20988066e1a914c4f6671ad8c06f120fb253364d6570cc46f1ce",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {
@@ -297,6 +304,7 @@
                             "nonce" : "0x00",
                             "r" : "0x742e5cbd6ff6fedbc62821d019c5809bf620cba582f2dd33c23d3ca8956bd117",
                             "s" : "0x39c7a217fe45c3a6aa2e2138311af6eef76b571dc7523dd1745112bcc44851ab",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0x095e7baea6a6c7c4c2dfeb977efac326af552d87",
                             "v" : "0x1c",
                             "value" : "0x1388"
@@ -364,16 +372,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "DifficultyIsZero_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_London" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "1a55dfa0a1474124691e6feaa4dd8024fbf0d0535f1d823d925ca4aa5943bb96",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xcda1fc6c789f53f48eb3d84266527f52caddc3a8b9b8d5c6c6399e5396e3b160",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {
@@ -409,6 +419,7 @@
                             "nonce" : "0x00",
                             "r" : "0x742e5cbd6ff6fedbc62821d019c5809bf620cba582f2dd33c23d3ca8956bd117",
                             "s" : "0x39c7a217fe45c3a6aa2e2138311af6eef76b571dc7523dd1745112bcc44851ab",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0x095e7baea6a6c7c4c2dfeb977efac326af552d87",
                             "v" : "0x1c",
                             "value" : "0x1388"
@@ -477,16 +488,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "DifficultyIsZero_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_Paris" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "88bb4e5a83a806590eb3cd2b7495037718183e2fd5f14ec3ff4e52d3c3ca0b64",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x4e291df818ae3ae9b28bb5a17884f6bdefab9c05e20b23a46470a1535656f895",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {
@@ -593,16 +606,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "DifficultyIsZero_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZero.json::DifficultyIsZero_Shanghai" : {
         "_info" : {
             "comment" : "",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "07b1e2d1e4986e68cb77aff7ada15d080002d58a44295f883cd151982c6b2461",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
-            "sourceHash" : "6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x812d1332298591b94ce352893d042b967a3e581080d516eefd54a6d45f1aa602",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcInvalidHeaderTest/DifficultyIsZeroFiller.json",
+            "sourceHash" : "0x6f21c5f7862a79d29ba518fe1bea6b171eeb26ef40c097ae26ed840332d48fe2"
         },
         "blocks" : [
             {

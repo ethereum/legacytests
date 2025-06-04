@@ -1,14 +1,16 @@
 {
-    "TransactionToItselfNotEnoughFounds_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/TransactionToItselfNotEnoughFounds.json::TransactionToItselfNotEnoughFounds_Berlin" : {
         "_info" : {
             "comment" : "Check that out of founds transaction to itself rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.13.5-unstable-bc823f46-20231024",
-            "filling-tool-version" : "retesteth-0.3.1-cancun+commit.3e1440a8.Linux.g++",
-            "generatedTestHash" : "4db3b27339680aea64fd7537fb0bbcce884863c61c5cab7522d34141c3dcb3aa",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/TransactionToItselfNotEnoughFoundsFiller.json",
-            "sourceHash" : "331f85eacfaadff3deed0021189adb931aacda890e0b1fb7c8f18b4acac55d63"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x5c40fdc01bfa257d70f98baca3a6e656fd8df20b6e1a0aa03702c37ae977c575",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/TransactionToItselfNotEnoughFoundsFiller.json",
+            "sourceHash" : "0x331f85eacfaadff3deed0021189adb931aacda890e0b1fb7c8f18b4acac55d63"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0x014dba7203af8f21a38972bc8df26d3e54b129c746f760cdf7505b44d0ce0504",
                             "s" : "0x678a6616d3c7ce1005c3b095b0cb84f23d9eb0ba6f01bf7fbfdf548cd82b41c3",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1b",
                             "value" : "0x4e21"
@@ -54,6 +57,7 @@
                             "nonce" : "0x01",
                             "r" : "0x8662ad5d3f03c33d6fafb1c3a10dc7662cf615aec20ba5436496af930bd206b9",
                             "s" : "0x1582104181aa02212bfdac431dabf4e1f29c70b0e0e621b8040acaa378199a37",
+                            "sender" : "0xbb5718723cc99337653795afcb05fd4f584f1491",
                             "to" : "0xbb5718723cc99337653795afcb05fd4f584f1491",
                             "v" : "0x1c",
                             "value" : "0xc351"
@@ -65,6 +69,7 @@
                             "nonce" : "0x02",
                             "r" : "0xc8edfa3769762ac32c5ce884ecddb0475eae8947cfacf0b41f07f2e7473ef3dd",
                             "s" : "0x388e4331de0aff1db589bf1d782d11af144bc0caecf2103ee3d926e6d4b2eed4",
+                            "sender" : "0xcd43b81d624daad79386f40c46d57aef76e59205",
                             "to" : "0xcd43b81d624daad79386f40c46d57aef76e59205",
                             "v" : "0x1c",
                             "value" : "0xc351"
@@ -76,6 +81,7 @@
                             "nonce" : "0x00",
                             "r" : "0x78d595f2ccb7d6fd33f8f9dac3b768782ba892214c5fb2483010b3cb9d5d083d",
                             "s" : "0x1957f6c2840a98a6a1b4bb561529194a0386ce6ab0633e583ea73c78a9076b9e",
+                            "sender" : "0xd6d6a21fa58e5413fa7cf5ef52f8b1d14f6fecfe",
                             "to" : "0xd6d6a21fa58e5413fa7cf5ef52f8b1d14f6fecfe",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -87,6 +93,7 @@
                             "nonce" : "0x00",
                             "r" : "0x27295b37412f8b906fa23126ef1921e3ec95fa68ed436630b63eae4ad6e1bcbb",
                             "s" : "0x4df44c87ebbac2eb3609d300c9d61fdd921e049961d6007b2a9f668197194d70",
+                            "sender" : "0x4793c6c16334857a532068c44816aba9723aa2c7",
                             "to" : "0x4793c6c16334857a532068c44816aba9723aa2c7",
                             "v" : "0x1c",
                             "value" : "0xc351"
@@ -196,16 +203,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "TransactionToItselfNotEnoughFounds_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/TransactionToItselfNotEnoughFounds.json::TransactionToItselfNotEnoughFounds_Istanbul" : {
         "_info" : {
             "comment" : "Check that out of founds transaction to itself rejected. must be a blockchain test.",
-            "filling-rpc-server" : "evm version 1.13.5-unstable-bc823f46-20231024",
-            "filling-tool-version" : "retesteth-0.3.1-cancun+commit.3e1440a8.Linux.g++",
-            "generatedTestHash" : "fe83c62c1bffd1f897f7d0438d65fdc29561a6366d7890fdebeb1ddd1d8ba878",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/TransactionToItselfNotEnoughFoundsFiller.json",
-            "sourceHash" : "331f85eacfaadff3deed0021189adb931aacda890e0b1fb7c8f18b4acac55d63"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xfc1b693c0a26c7741d55b24285a345974e57f0157869dd28979d48264d8a8248",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/TransactionToItselfNotEnoughFoundsFiller.json",
+            "sourceHash" : "0x331f85eacfaadff3deed0021189adb931aacda890e0b1fb7c8f18b4acac55d63"
         },
         "blocks" : [
             {
@@ -240,6 +249,7 @@
                             "nonce" : "0x00",
                             "r" : "0x014dba7203af8f21a38972bc8df26d3e54b129c746f760cdf7505b44d0ce0504",
                             "s" : "0x678a6616d3c7ce1005c3b095b0cb84f23d9eb0ba6f01bf7fbfdf548cd82b41c3",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1b",
                             "value" : "0x4e21"
@@ -251,6 +261,7 @@
                             "nonce" : "0x01",
                             "r" : "0x8662ad5d3f03c33d6fafb1c3a10dc7662cf615aec20ba5436496af930bd206b9",
                             "s" : "0x1582104181aa02212bfdac431dabf4e1f29c70b0e0e621b8040acaa378199a37",
+                            "sender" : "0xbb5718723cc99337653795afcb05fd4f584f1491",
                             "to" : "0xbb5718723cc99337653795afcb05fd4f584f1491",
                             "v" : "0x1c",
                             "value" : "0xc351"
@@ -262,6 +273,7 @@
                             "nonce" : "0x02",
                             "r" : "0xc8edfa3769762ac32c5ce884ecddb0475eae8947cfacf0b41f07f2e7473ef3dd",
                             "s" : "0x388e4331de0aff1db589bf1d782d11af144bc0caecf2103ee3d926e6d4b2eed4",
+                            "sender" : "0xcd43b81d624daad79386f40c46d57aef76e59205",
                             "to" : "0xcd43b81d624daad79386f40c46d57aef76e59205",
                             "v" : "0x1c",
                             "value" : "0xc351"
@@ -273,6 +285,7 @@
                             "nonce" : "0x00",
                             "r" : "0x78d595f2ccb7d6fd33f8f9dac3b768782ba892214c5fb2483010b3cb9d5d083d",
                             "s" : "0x1957f6c2840a98a6a1b4bb561529194a0386ce6ab0633e583ea73c78a9076b9e",
+                            "sender" : "0xd6d6a21fa58e5413fa7cf5ef52f8b1d14f6fecfe",
                             "to" : "0xd6d6a21fa58e5413fa7cf5ef52f8b1d14f6fecfe",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -284,6 +297,7 @@
                             "nonce" : "0x00",
                             "r" : "0x27295b37412f8b906fa23126ef1921e3ec95fa68ed436630b63eae4ad6e1bcbb",
                             "s" : "0x4df44c87ebbac2eb3609d300c9d61fdd921e049961d6007b2a9f668197194d70",
+                            "sender" : "0x4793c6c16334857a532068c44816aba9723aa2c7",
                             "to" : "0x4793c6c16334857a532068c44816aba9723aa2c7",
                             "v" : "0x1c",
                             "value" : "0xc351"

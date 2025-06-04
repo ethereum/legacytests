@@ -1,14 +1,16 @@
 {
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Berlin" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Berlin" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "a7554e6720c4b66c5ee5c1867747d8cb11893f8f10bb082fa726a88f7865fe07",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xbfa9ab35f5bdcdada410b18116a0a3dc26d5468a12d797b2200b26fe2710ea6b",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -43,6 +45,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -112,16 +115,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Cancun" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Cancun" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "e8ab224eb2ef3b1996e42d73fbab4a083a3021f4bb2cb883df79b57b53c67f31",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x70a025ec0868a8f474965a90db471ad55cca5382696fabdb81cc7dce462f9316",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -161,6 +166,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -251,16 +257,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Istanbul" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Istanbul" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "62f7e9bd6dfa69f36d6dca2978b356995cbffa8461bdae265e2f51d97dc9fb75",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xde14b00a333028452587048a484e0646e5c80c6cf60dace03e63f3f3da40a3c5",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -295,6 +303,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -364,16 +373,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_London" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_London" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "21ed9fd624ce64c1a4d72da80c42410b77f481b5830d8c3a63b363bc4c296d49",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0x694166f4aa7f4129dab9e894fd83984e71b02c01b3261664e50df7522fc8345d",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -409,6 +420,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -479,16 +491,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Paris" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Paris" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "4a829a97e50aa2dc710a1dbafdbd95c904512ee61ab8867a615894980259b3de",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xbad8e81c0805971f1d9bbd9cb3d108478ac73423d769ef8cd8bb79a396fcc226",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -524,6 +538,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
@@ -594,16 +609,18 @@
         },
         "sealEngine" : "NoProof"
     },
-    "ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Shanghai" : {
+    "LegacyTests/Cancun/BlockchainTests/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris.json::ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_Paris_Shanghai" : {
         "_info" : {
             "comment" : "intrinsic oog revert. specific account call",
-            "filling-rpc-server" : "evm version 1.14.0-unstable-d8e0807d-20240306",
-            "filling-tool-version" : "retesteth-0.3.2-cancun+commit.43b706cc.Linux.g++",
-            "generatedTestHash" : "f5c8079ac9016fb6cc75b9a5c5de54d0081aa632b7f0644e26feca570e50cd90",
-            "lllcversion" : "Version: 0.5.14-develop.2023.7.11+commit.c58ab2c6.mod.Linux.g++",
-            "solidity" : "Version: 0.8.21+commit.d9974bed.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
-            "sourceHash" : "ae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
+            "filling-rpc-server" : "evmone-t8n 0.15.0+commit.18b8e952",
+            "filling-tool-version" : "retesteth-0.3.3-discontinued+commit.f30e58c2.Linux.g++",
+            "fixture-format" : "blockchain_test",
+            "hash" : "0xec6671187664e555bae769076d19d307e9fc718a24e2efe66c49314ea4e8123c",
+            "lllcversion" : "Version: 0.5.14-develop.2024.11.5+commit.b2b86751.mod.Linux.g++",
+            "repo" : "ethereum/tests",
+            "solidity" : "Version: 0.8.24+commit.e11b9ed9.Linux.g++",
+            "source" : "LegacyTests/src/LegacyTests/Cancun/BlockchainTestsFiller/InvalidBlocks/bcStateTests/ZeroValue_TransactionCALL_ToOneStorageKey_OOGRevert_ParisFiller.json",
+            "sourceHash" : "0xae507088afc43e82e74919db31b1572fd6e2dc05179eb91b40b6c597681d3c60"
         },
         "blocks" : [
             {
@@ -640,6 +657,7 @@
                             "nonce" : "0x00",
                             "r" : "0xc153e52971eb13c8353c6c3a6f5ccbbe41273af2db9743b664e125113187d56f",
                             "s" : "0x13c21557bee4342ff0fa2cbf533798b854b7b7547fa3d3519387ce696fb1e443",
+                            "sender" : "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "to" : "0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b",
                             "v" : "0x1c",
                             "value" : "0x00"
