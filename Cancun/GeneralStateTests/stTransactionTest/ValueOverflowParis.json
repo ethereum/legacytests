@@ -89,7 +89,7 @@
             "EIP150" : [
                 {
                     "expectException" : "TR_RLP_WRONGVALUE",
-                    "hash" : "0x7595d82b2af4523bcbf5468b5555ab1663bbbe5412f06481b33bbab66b8784e7",
+                    "hash" : "0xecd1cea72bd1224b1d7a28a577170c00dd480b26b5b0f353e3d4ad2bb542cc09",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -115,7 +115,7 @@
             "Frontier" : [
                 {
                     "expectException" : "TR_RLP_WRONGVALUE",
-                    "hash" : "0x7595d82b2af4523bcbf5468b5555ab1663bbbe5412f06481b33bbab66b8784e7",
+                    "hash" : "0xecd1cea72bd1224b1d7a28a577170c00dd480b26b5b0f353e3d4ad2bb542cc09",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -128,7 +128,7 @@
             "Homestead" : [
                 {
                     "expectException" : "TR_RLP_WRONGVALUE",
-                    "hash" : "0x7595d82b2af4523bcbf5468b5555ab1663bbbe5412f06481b33bbab66b8784e7",
+                    "hash" : "0xecd1cea72bd1224b1d7a28a577170c00dd480b26b5b0f353e3d4ad2bb542cc09",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,

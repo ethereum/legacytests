@@ -144,7 +144,7 @@
             "EIP150" : [
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -155,7 +155,7 @@
                 },
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -192,7 +192,7 @@
             "Frontier" : [
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -203,7 +203,7 @@
                 },
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -216,7 +216,7 @@
             "Homestead" : [
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -227,7 +227,7 @@
                 },
                 {
                     "expectException" : "TR_TypeNotSupported",
-                    "hash" : "0x9c82fedcc33c3ae00088e615ddcad2d2b7bc2815c35194d11cbdf1bf7ba0cba3",
+                    "hash" : "0x23af372a0ccfd6a662f86652c982d9c769c0eb240428d6b124acd73a84057da5",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
